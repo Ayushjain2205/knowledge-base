@@ -101,7 +101,7 @@ const mockdata = [
   {
     description: "Books, guides",
     title: "PDFs",
-    extension: "png",
+    extension: "pdf",
   },
   {
     description: "Finances",

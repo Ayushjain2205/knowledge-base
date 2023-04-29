@@ -23,7 +23,7 @@ const create = () => {
       <h1 className="text-l mb-2">Choose sources:</h1>
       <ImageCheckboxes />
       <Link href="data">
-        <button className="btn btn-primary btn-block mt-32">Load Data</button>
+        <button className="btn btn-primary btn-block mt-32">Add Data</button>
       </Link>
     </Layout>
   );
