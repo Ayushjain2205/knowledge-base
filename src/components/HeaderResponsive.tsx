@@ -126,7 +126,7 @@ export function HeaderResponsive({ links }: HeaderResponsiveProps) {
   return (
     <Header height={HEADER_HEIGHT} mb={120} className={classes.root}>
       <Container className={classes.header}>
-        <h1 className="bold">
+        <h1 className="font-bold text-primary text-xl">
           <i className="fa-solid fa-chalkboard-user"></i>&nbsp; KnowledgeBase
         </h1>
         <Group spacing={5} className={classes.links}>
